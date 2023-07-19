@@ -1,0 +1,17 @@
+.color-fondo{
+   @extend %orden2;
+}
+
+
+footer{
+   @extend %orden2;
+    
+    .logo{
+       @extend %orden;
+  
+    }
+    .ul-mio{
+        color: nth($color, 2 )!important;
+    }
+     
+}

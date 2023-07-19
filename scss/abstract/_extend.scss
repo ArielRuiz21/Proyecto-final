@@ -1,0 +1,13 @@
+%orden{
+    width: nth($size, 3 );
+        height: nth($size, 4 );
+        margin-right: nth($size , 8 );
+
+}
+%orden2{
+    background-color: nth($color , 1 );
+}
+
+%orden3{
+    background-color: white !important;
+}

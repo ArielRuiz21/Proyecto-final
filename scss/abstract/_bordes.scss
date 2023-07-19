@@ -1,0 +1,5 @@
+.bordes {
+    border-bottom: nth($size , 7 ) solid nth($color , 3 );
+    border-top:  nth($size , 7 ) solid nth($color, 3 );
+   text-align: center;
+}

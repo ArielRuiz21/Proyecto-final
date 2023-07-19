@@ -1,0 +1,24 @@
+header{
+    .logo{
+        @extend %orden;
+
+    
+    }
+    .navbar-mio{
+        background-color: nth($color, 1 )!important;
+    }
+    
+    .navbar-toggler-mio{
+         @extend %orden3;
+    }
+    
+    .nav-link{
+        color: nth($color, 2 )!important;
+    
+    }
+    
+    .color-fondo{
+        @extend %orden2;
+    }
+    
+}

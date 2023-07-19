@@ -1,0 +1,28 @@
+@import "./abstract/body";
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,400;1,500;1,700&display=swap');
+
+
+
+//Listas
+@import "./abstract/listas";
+@import "./abstract/tamaño-img";
+@import "./abstract/extend";
+@import "./abstract/mixin";
+//bordes
+@import "./abstract/bordes";
+
+
+
+// imagenes
+@import "./abstract/./img-pag-principal";
+
+//
+@import "./componentes/header";
+@import "./componentes/footer";
+@import "./componentes/textos"
+
+
+

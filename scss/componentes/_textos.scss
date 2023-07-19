@@ -1,0 +1,12 @@
+h1{
+    @include tamaños(700);
+    text-align: center;
+}
+
+h2{
+    @include tamaños(500);
+}
+
+p{
+    @include tamaños(400);
+}
